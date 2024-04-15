@@ -1,5 +1,4 @@
 // bank app scripts
-console.log('Heloow')
 class BankAccount{
 
     //declare account number,accountowner name and balance
